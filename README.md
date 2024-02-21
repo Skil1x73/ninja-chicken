@@ -1,2 +1,2 @@
 # ninja-chicken
-slepica co je ninja co víc k tomu rict
+you are a chicken, ninja, chicken ninja
